@@ -20,13 +20,13 @@ Three PCs are connected to a single switch, showing basic connectivity and netwo
 ## Network Screenshots
 
 ### Screenshot 1
-![LAN Screenshot 1]Screenshot 2025-10-02 022700.png)
+![LAN Screenshot 1]Screenshot 2025-10-02 022700.png
 
 ### Screenshot 2
-![LAN Screenshot 2]Screenshot 2025-10-02 023726.png)
+![LAN Screenshot 2]Screenshot 2025-10-02 023726.png
 
 ### Screenshot 3
-![LAN Screenshot 3]Screenshot 2025-10-02 023917.png)
+![LAN Screenshot 3]Screenshot 2025-10-02 023917.png
 
 ### Screenshot 4
-![LAN Screenshot 4]Screenshot 2025-10-02 024051.png)
+![LAN Screenshot 4]Screenshot 2025-10-02 024051.png
